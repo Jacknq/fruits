@@ -5,10 +5,16 @@
 npm install
 ```
 
+### Runs api - second terminal
+```
+npm run api
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+
 
 ### Compiles and minifies for production
 ```
