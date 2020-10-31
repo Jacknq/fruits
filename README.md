@@ -1,5 +1,5 @@
 # fruits
-vue 2 typescript example with vuetify, vuex modules and fetch (mande)
+Vue 2 typescript example with vuetify, vuex modules and fetch (mande)
 ## Project setup
 ```
 npm install
